@@ -11,3 +11,8 @@ class Dog
     puts "woof!"
   end
 end
+
+wilson = Dog.new
+wilson.name = "Fido"
+puts wilson.name
+wilson.bark
