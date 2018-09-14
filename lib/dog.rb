@@ -13,6 +13,6 @@ class Dog
 end
 
 wilson = Dog.new
-wilson.name = "Fido"
+wilson.name = "Wilson"
 puts wilson.name
 wilson.bark
